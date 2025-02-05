@@ -1,6 +1,12 @@
 # 🚗 Motor Vehicle Thefts Analysis
 
+## 🔎 Problem Statement
+Motor vehicle theft is a significant concern for law enforcement and vehicle owners. Understanding when, where, and what types of vehicles are most frequently stolen can help authorities and policymakers implement targeted measures to reduce theft incidents. This analysis aims to uncover key patterns in vehicle thefts using structured data analysis and visualization.
+
+---
+
 ## 📌 Objective 1: Identify When Vehicles Are Likely to Be Stolen
+
 
 1. **Annual Theft Trends**
    - Calculated the number of vehicles stolen each year.
